@@ -1,0 +1,14 @@
+.container{
+    color: white;
+}
+.eachSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  
+    gap: 20px;
+    padding: 20px;
+    background-color: gray;
+}
+.rotate{
+    transform: rotate(45deg);
+} 
